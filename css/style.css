@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+.navbar {
+  max-width: 1246px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  max-width: 265px;
+}
+.nav-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+}
+.nav-link {
+  text-decoration: none;
+  color: black;
+  margin-left: 30px;
+  font-size: 14px;
+  line-height: 140%;
+}
